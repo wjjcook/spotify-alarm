@@ -1,3 +1,5 @@
+A web application that uses the Spotify Web API to set alarms that play music on Spotify Connect devices.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
